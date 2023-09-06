@@ -16,18 +16,18 @@ body {
     margin-top: 30%;
 }
 .logo img {
-    top: 150px;
+    top: 100px;
     position: relative;
     width: 250px;
     height: auto;
 }
 .login {
-    top: 250px;
+    top: 150px;
     position: relative;
     display: flex;
     text-align: center;
     justify-content: center;
-    margin-top: 15%;
+    margin-top: 8%;
     box-sizing: border-box;
     width: 620px;
     height: 120px;
@@ -65,15 +65,15 @@ body {
     font-size: 30px;
 }
 .loginbutton {
-    top: 350;
+    top: 200;
     position: relative;
     display: flex;
     text-align: center;
     justify-content: center;
     margin-top: 10%;
     box-sizing: border-box;
-    width: 500px;
-    height: 100px;
+    width: 620px;
+    height: 120px;
     margin-left: auto;
     margin-right: auto;
     box-sizing: border-box;
@@ -93,15 +93,15 @@ body {
     background-color: #105c92;
 }
 .kakaologinbutton {
-    top: 500;
+    top: 200;
     position: relative;
     position: relative;
     text-align: center;
     justify-content: center;
     margin-top: 3%;
     box-sizing: border-box;
-    width: 500px;
-    height: 100px;
+    width: 620px;
+    height: 120px;
     margin-left: auto;
     margin-right: auto;
     box-sizing: border-box;
@@ -129,7 +129,7 @@ font-size: 20px;
 text-decoration: underline;
 color:black;
 position: relative;
-top: 600;
+top: 250px;
 font-size: 30px;
 }
 .signup a {
